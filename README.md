@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about web development, software eng
 
 ## Tech Stack
 
-### Frontend
+### Client Side
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 5px;"/>
@@ -43,12 +43,13 @@ Welcome to my GitHub profile! I'm passionate about web development, software eng
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" style="margin: 5px;"/>
 </div>
 
-### Backend
+### Server Side
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 5px;"/>
 </div>
 
 ### Databases
