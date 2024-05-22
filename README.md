@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about web development, software eng
 - Full-stack web development
 - Building scalable applications
 - Artificial intelligence and machine learning
-- Rom Hack script design
+- ROM Hack script design
 
 ## 🌱 I’m currently learning ...
 - Advanced React and Redux
@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I'm passionate about web development, software eng
 - Any exciting tech challenges
 
 ## 📫 How to reach me ...
-- Email: [jliuknows@gmail.com](mailto:jiamliu@example.com)
+- Email: [jliuknows@gmail.com](mailto:jliuknows@gmail.com)
 
 ## ⚡ Fun fact: ...
 - I love hiking and photography. You might find me exploring the great outdoors with my camera on weekends!
-- I spend my weekend working on my cars (I was a consultant, as well as an auto mechanic before becoming a software developer).
+- I spend my weekends working on my cars (I was a consultant, as well as an auto mechanic before becoming a software developer).
 
 ---
 
@@ -49,7 +49,6 @@ Welcome to my GitHub profile! I'm passionate about web development, software eng
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="margin: 5px;"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 5px;"/>
 </div>
 
 ### Databases
@@ -70,6 +69,7 @@ Welcome to my GitHub profile! I'm passionate about web development, software eng
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiamliu&show_icons=true&theme=radical)
+
 
 
 
