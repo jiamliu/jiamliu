@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about web development, software eng
 
 ## ⚡ Fun fact: ...
 - I love hiking and photography. You might find me exploring the great outdoors with my camera on weekends!
-- I spend my weekend working on my cars (I was an part-time auto mechanic before becoming a software developer).
+- I spend my weekend working on my cars (I was a consultant, as well as an auto mechanic before becoming a software developer).
 
 ---
 
