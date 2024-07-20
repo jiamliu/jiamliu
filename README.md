@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm passionate about web development, software eng
 - Any exciting tech challenges
 
 ## 📫 How to reach me ...
-- Email: [jmlewis0307@gmail.com](mailto:jliuknows@gmail.com)
+- Email: [jliuknows@gmail.com](mailto:jliuknows@gmail.com)
 
 ## ⚡ Fun fact: ...
 - I love hiking and photography. You might find me exploring the great outdoors with my camera on weekends!
